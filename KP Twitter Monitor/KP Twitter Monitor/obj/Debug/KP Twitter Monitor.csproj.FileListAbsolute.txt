@@ -1,0 +1,22 @@
+c:\users\herleeyandi\documents\visual studio 2013\Projects\KP Twitter Monitor\KP Twitter Monitor\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\herleeyandi\documents\visual studio 2013\Projects\KP Twitter Monitor\KP Twitter Monitor\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\herleeyandi\documents\visual studio 2013\Projects\KP Twitter Monitor\KP Twitter Monitor\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\herleeyandi\documents\visual studio 2013\Projects\KP Twitter Monitor\KP Twitter Monitor\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\herleeyandi\documents\visual studio 2013\Projects\KP Twitter Monitor\KP Twitter Monitor\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\herleeyandi\documents\visual studio 2013\Projects\KP Twitter Monitor\KP Twitter Monitor\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\herleeyandi\documents\visual studio 2013\Projects\KP Twitter Monitor\KP Twitter Monitor\Bin\Debug\KP Twitter Monitor.dll
+c:\users\herleeyandi\documents\visual studio 2013\Projects\KP Twitter Monitor\KP Twitter Monitor\Bin\Debug\KP Twitter Monitor.pdb
+c:\users\herleeyandi\documents\visual studio 2013\Projects\KP Twitter Monitor\KP Twitter Monitor\Bin\Debug\AppManifest.xaml
+c:\users\herleeyandi\documents\visual studio 2013\Projects\KP Twitter Monitor\KP Twitter Monitor\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\herleeyandi\documents\visual studio 2013\Projects\KP Twitter Monitor\KP Twitter Monitor\Bin\Debug\KP_Twitter_Monitor_Debug_AnyCPU.xap
+c:\users\herleeyandi\documents\visual studio 2013\Projects\KP Twitter Monitor\KP Twitter Monitor\obj\Debug\App.g.cs
+c:\users\herleeyandi\documents\visual studio 2013\Projects\KP Twitter Monitor\KP Twitter Monitor\obj\Debug\MainPage.g.cs
+c:\users\herleeyandi\documents\visual studio 2013\Projects\KP Twitter Monitor\KP Twitter Monitor\obj\Debug\KP Twitter Monitor.g.resources
+c:\users\herleeyandi\documents\visual studio 2013\Projects\KP Twitter Monitor\KP Twitter Monitor\obj\Debug\KP_Twitter_Monitor.Resources.AppResources.resources
+c:\users\herleeyandi\documents\visual studio 2013\Projects\KP Twitter Monitor\KP Twitter Monitor\obj\Debug\KP Twitter Monitor.csproj.GenerateResource.Cache
+c:\users\herleeyandi\documents\visual studio 2013\Projects\KP Twitter Monitor\KP Twitter Monitor\obj\Debug\KP Twitter Monitor.dll
+c:\users\herleeyandi\documents\visual studio 2013\Projects\KP Twitter Monitor\KP Twitter Monitor\obj\Debug\KP Twitter Monitor.pdb
+c:\users\herleeyandi\documents\visual studio 2013\Projects\KP Twitter Monitor\KP Twitter Monitor\obj\Debug\XapCacheFile.xml
+c:\users\herleeyandi\documents\visual studio 2013\Projects\KP Twitter Monitor\KP Twitter Monitor\Bin\Debug\Microsoft.Phone.Controls.dll
+c:\users\herleeyandi\documents\visual studio 2013\Projects\KP Twitter Monitor\KP Twitter Monitor\obj\Debug\KP Twitter Monitor.csprojResolveAssemblyReference.cache
+c:\users\herleeyandi\documents\visual studio 2013\Projects\KP Twitter Monitor\KP Twitter Monitor\obj\Debug\Content.g.cs
